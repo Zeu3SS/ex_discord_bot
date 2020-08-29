@@ -1,0 +1,1 @@
+Mettre le Weekbook de votre bot discord dans le conifg.lua
